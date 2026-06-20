@@ -60,6 +60,6 @@ const play = async (m, { sender, from, usedPrefix, command, args, conn }) => {
 };
 
 // Comandos para activar el plugin
-play.command = ["play", "yt", "cancion"];
+play.command = ["playaudio" "play" "ytmp3" "mp3"];
 
 export default play;
