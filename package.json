@@ -1,0 +1,31 @@
+{
+  "name": "proyect-b",
+  "version": "1.0.0",
+  "description": "WhatsApp bot base using Baileys - Proyect B",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "proyect-b"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.12",
+    "@hapi/boom": "^10.0.1",
+    "@vitalets/google-translate-api": "^9.2.1",
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "@hapi/boom": "^10.0.1",
+    "chalk": "^5.3.0",
+    "node-fetch": "^3.3.2",
+    "figlet": "^1.7.0",
+    "youtube-search-api": "^2.0.1",
+    "yt-search": "^2.13.1",
+    "pino": "^9.0.0"
+  }
+}
